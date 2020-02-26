@@ -1,0 +1,12 @@
+{
+    "name": "chalk-state",
+    "url":"",
+    "license": "",
+    "tags": [],
+    "description": "",
+    "version": "0.0.1",
+    "classPath": "src",
+    "releasenote": "pre-release",
+    "contributors":["cbeo"],
+    "dependencies": {}
+}
